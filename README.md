@@ -1,4 +1,4 @@
-<!-- Replace the path below after you upload the banner to your repo -->
+<!-- The banner to your repo -->
 <p align="center">
   <img src="assets/spectravision-banner.png" alt="SpectraVision — Spectral Soft Sensor Project (LUT, 2025)" width="100%">
 </p>
@@ -15,6 +15,8 @@ Our task is to **predict vegetation traits** from spectra using multiple regress
 - **PCR** (Principal Component Regression)
 - **PLS** (Partial Least Squares)
 - **k-PLS** (Kernel Partial Least Squares)
+
+📄 For full details, see the official [Theme A3 project description (PDF)](docs/ADAML23%20-%20Spectral%20Soft%20Sensor%20Project%20Work.pdf).
 
 ---
 
