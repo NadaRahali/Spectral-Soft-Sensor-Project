@@ -3,7 +3,7 @@
   <img src="assets/spectravision-banner.png" alt="SpectraVision — Spectral Soft Sensor Project (LUT, 2025)" width="100%">
 </p>
 
-<h1 align="center">Hyperspectral Soft Sensor 🌈📊</h1>
+<h1 align="center">Hyperspectral Soft Sensor </h1>
 <p align="center"><b>Comparing multivariate regression techniques for hyperspectral plant trait prediction</b></p>
 
 ---
@@ -62,26 +62,18 @@ The dataset originates from a **multi-sensor study**, where spectral data and ve
 
 ## 🛠️ Methods & Stack
 - **Language**: Python  
-- **Core libs**: NumPy, pandas, matplotlib, scikit-learn  
+- **Libraries**: NumPy, pandas, matplotlib, seaborn, scipy, scikit-learn  
 - **Analysis**: EDA, PCA, model calibration/validation  
 - **Modeling**: MLR · PCR · PLS · k-PLS  
-- **Evaluation**: Hold-out / CV performance (RMSE/R²/MAE), timing, and interpretability notes
 
 ---
 
 ## 📅 Milestones (per course brief)
 - **Week 1 (W36)**: Team formation & topic selection  
 - **Week 2 (W37)**: Data summary & visualization (PDF #1 + code)  
-- **Week 3–4 (W38–W39)**: Pretreatment & modeling plan (PDF #2 + code)  
+- **Week 3–4 (W38–W39)**: Data pretreatment and Modelling Plan (PDF #2 + code)  
 - **Week 5–6 (W40–W41)**: Initial model results (PDF #3 + code)  
-- **Week 7–8 (W42–W43)**: Final models & report (PDF #4 + code)
-
----
-
-## 📑 Deliverables
-- Weekly PDFs + corresponding code notebooks/scripts  
-- Reproducible pipeline for EDA → pretreatment → modeling → evaluation  
-- Final consolidated PDF + comparison tables/plots
+- **Week 7–8 (W42–W43)**: Final model (PDF #4 + code)
 
 ---
 
